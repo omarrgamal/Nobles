@@ -1338,6 +1338,7 @@ button[disabled]:hover {
     background: none;
     outline: none;
     border-bottom: 2px solid #CCC;
+    box-shadow: none;
 }
 
 .form-inputs {
@@ -1363,6 +1364,7 @@ button[disabled]:hover {
     right: 30px;
     padding-top: 15px;
     padding-bottom: 10px;
+    box-shadow: none;
 }
 
 
