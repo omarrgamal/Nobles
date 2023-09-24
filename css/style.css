@@ -1393,6 +1393,10 @@ button[disabled]:hover {
     margin-bottom: 30px;
 }
 
+.contact-info .adress i {
+    margin-left: 5px;
+}
+
 .contact-info-text a {
     display: block;
     color: #FFF;
@@ -2547,7 +2551,6 @@ footer hr {
         margin-left: -10px;
     }
 
-    .x-serv:nth-of-type(2) div img {}
 
 
     /* Services */
@@ -2557,6 +2560,10 @@ footer hr {
         padding: 0px;
         padding-top: 20px;
         padding-bottom: 10px;
+    }
+
+    .partners .arrows {
+        margin-right: 10px;
     }
 
     .partners .container-fluid {
