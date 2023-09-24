@@ -214,6 +214,7 @@ function startCount(el) {
 
 let serviceRowRight = document.getElementById('services-row-right'); // Main white box;
 let sections = Array.from(document.querySelectorAll('.x-serv>div'));
+let sectionsDiv = Array.from(document.querySelectorAll('.x-serv'))
 let contentArrServices = [];
 let index = 0;
 let title = 'Digital Marketing';
@@ -414,6 +415,7 @@ function show() {
 
 
 } show();
+
 
 
 // ====== End Services
